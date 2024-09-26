@@ -1,13 +1,15 @@
 FullStack E-commerce Application
+
 This project is a comprehensive e-commerce platform built with Next.js 13, React, Tailwind CSS, Prisma, MongoDB, and NextAuth. It offers a fully functional e-commerce experience, from user browsing to checkout, with a powerful admin dashboard for managing products and orders.
 
 Features
+
 User-Friendly Interface: Seamless navigation with modern UI/UX.
 Admin Dashboard: Manage products, monitor orders, and view performance analytics.
 Secure Payment: Integrated payment processing for a safe checkout.
 Scalable Backend: Built with Next.js API routes, Prisma, and MongoDB.
 
-Here are some features below.
+Here are some screenshot of the application below:
 
 Users can view products
 
