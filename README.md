@@ -17,7 +17,7 @@ Users can view products
 
 Users can checkout products
 
-![image](https://github.com/user-attachments/assets/a05be86f-80d3-4420-bd6f-d54c1c4eced5)
+![image](https://github.com/user-attachments/assets/f9064357-7add-4dfc-b989-e0c82056eeb2)
 
 User can input payment
 
