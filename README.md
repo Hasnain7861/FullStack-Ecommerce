@@ -1,4 +1,12 @@
-# FullStack-Ecommerce
+Fullstack Ecommerce Application
+● Created a feature-rich and high-performance fullstack E-Commerce website, utilizing Next.js 13 App Router to achieve complex
+client-side routing, ensuring a seamless user experience and efficient navigation
+● Demonstrated proficiency in employing the latest web development technologies, such as React, Tailwind CSS, Prisma, MongoDB,
+and NextAuth, to build a robust and fully functional application encompassing both front-end and back-end components
+● Implemented an admin dashboard to facilitate effective management and control, showcasing expertise in building dynamic and
+responsive web applications for E-Commerce purposes
+
+Here are some features below.
 
 Users can view products
 
